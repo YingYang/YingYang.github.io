@@ -16,10 +16,18 @@ title: Ying Yang
 <!-- End of Education -->    
 <!-- Pulications -->
 <div class="entry">
-<h2> Publications </h2>        
+<h2> Publications</h2>        
         <p> Yang, Y., Aminoff, E. M., Tarr, M. J. and Kass, R. E. (2016). A state-space model of cross-region dynamic connectivity in MEG/EEG. In Advances In Neural Information Processing Systems (pp. 1226-1234). </p>
         <p> Yang, Y., Tarr, M. J. and Kass, R. E.(2014). Estimating Learning Effects: A Short-Time Fourier Transform Regression Model for MEG Source Localization (2014). In the 4th Workshop on Machine Learning and Interpretation in NeuroImaging (MLINI) at the Conference on Neural Information Processing Systems. </p> 
 </div>
 <!-- End of Pulications -->
 <!-- Conference presentations -->
 <!-- End of Conference presentations -->
+<!-- Teaching -->
+<div class="entry">
+<h2>Teaching</h2> 
+        <p> Fall 2014, Teaching assistant for 10601 Machine Learning, Carnegie Mellon University. Instructors: William Cohen and Ziv Bar-Joseph </p>        
+        <p> Summer 2014, Teaching assistant for summer workshop for the Multimodel Neuroimaging Training Program, University of Pittsburgh </p>
+        <p> Summer 2013, Teaching assistant undergraduate program in neural computation, Center for the Neural Basis of Cognition, Carnegie Mellon University </p>
+</div>
+<!-- End of Teaching -->
