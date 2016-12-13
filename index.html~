@@ -3,6 +3,9 @@ layout: default
 title: Ying Yang
 ---
 <div class="blurb">
-	<h1>Ying Yang</h1>
-	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+	<h1>Ying Yang (杨颖)</h1>
+	<p>I am generally interested statistical models for neuoimaging and human visual cognition. <em> 
+           I have been working on source localization in magnetoencephalography (MEG) and electroencephalogram (EEG). <em> 
+	   I developed regression models to study correlation between neural signals and external features, as well as models to estimate connectivity between regions in MEG and EEG. <em>
+	   Using these models, we study the spatio-temporal dynamics in human visual cortex, specifically, we explore what information is coded at different time points and brain areas, and how information flows. </a></p>
 </div><!-- /.blurb -->
