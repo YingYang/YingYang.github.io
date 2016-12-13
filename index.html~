@@ -11,3 +11,17 @@ title: Ying Yang
 	   Using these models, we study the spatio-temporal dynamics in human visual cortex, specifically, we explore what information is coded at different time points and brain areas, and how information flows. 
 	</p>
 </div><!-- /.blurb -->
+<!-- Education -->
+<div class="entry">
+	<h2> Education</h2>
+	<p> 2011-2016 <em> Ph.D. student in Neural Computation and Machine Learning, Carnegie Mellon University <em> coadvised by Prof. Michael J. Tarr and Prof. Robert E. Kass </p>
+	<p> 2007-2011 <em> B.S. in Biology, Peking University, Beijing, China</p>
+</div>
+<!-- End of Education -->    
+<!-- Pulication -->
+<div class="entry">
+<h2> Publications </h2>
+        <p> Ying Yang, Michael J. Tarr and Robert E. Kass. Estimating Learning Effects: A Short-Time Fourier Transform Regression Model for MEG Source Localization. 4th NIPS Workshop on Machine Learning and Interpretation in NeuroImaging (MLINI), 2014 (in press) </p> 
+</div>
+<!-- End of Pulication -->
+
